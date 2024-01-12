@@ -1,0 +1,32 @@
+PSA_SND_FILE_DETECTOR_FOLDER C:\Wentao Zhu\Project\PSA\Networks-Transition-Technical-Trials-PSA-1\packages\PSA_SND_File_Detector
+PSA_SND_ROOT_WORKING_FOLDER C:\Wentao Zhu\Project\PSA\Networks-Transition-Technical-Trials-PSA-1
+PSA_SND_UTC FALSE
+PSA_SND_EMAIL transition-technical-trials-psa@sse.com
+PSA_SND_SIA_USER TTTRIALS
+PSA_SND_SIA_TOKEN TTT-psa123!
+PSA_SND_SIA_TIMEOUT 10
+PSA_SND_SIA_BASE_URL https://transition.ssen.heka.ai/api
+PSA_SND_SIA_LOGIN_URL /a12n/login
+PSA_SND_SIA_URL_FEEDER https://transition.ssen.heka.ai/api/c13s/d10_forecast/feeder
+PSA_SND_SIA_URL_GROUP https://transition.ssen.heka.ai/api/c13s/d10_forecast/group
+PSA_SND_SIA_URL_GEN https://transition.ssen.heka.ai/api/c13s/d10_forecast/generation
+PSA_SND_SIA_PARAMS 'GEN_MVA','GEN_MW','NET_DEM_MVA','NET_DEM_MW','UND_DEM_MVA','UND_DEM_MW'
+PSA_SND_NERDA_USER transition-technical-trials-psa@sse.com
+PSA_SND_NERDA_TOKEN ZaL4rMKPH3AoWaglCfGhEIMk0ovlZ0IiYx7skPZTomg=
+PSA_SND_NERDA_URL https://nerda-legacy.azurewebsites.net/api/all_cbs/
+#PSA_SND_NERDA_URL https://nerda.opengrid.com/api/all_cbs/
+PSA_SF_THRESHOLD 0.5
+PSA_SND_NERDA_TIMEOUT 5
+PSA_SND_CALC_FLEX_REQTS_INTERVAL 7200
+PSA_SND_HH_MODE TRUE
+PSA_SND_PF_USER zhuw
+PSA_SND_PF_PATH C:\Program Files\DIgSILENT\PowerFactory 2022 SP2\Python\3.10
+PSA_PF_LDF_MODE balanced
+PSA_PF_ALGRTHM power
+PSA_PF_TRAFO_TAP yes
+PSA_PF_SHUNT_TAP yes
+PSA_PF_ZIP_LOAD no
+PSA_PF_Q_LIMITS no
+PSA_PF_PHASE_SHIFT no
+PSA_PF_TRAFO_TAP_LIMIT yes
+PSA_PF_MAX_ITER 100
